@@ -1,0 +1,14 @@
+<?xml version="1.0" ?><xliff version="1.1">
+  <file datatype="php" original="system/modules/ww-metamodels-inserttags/languages/en/tl_metamodel_rendersettings.php" source-language="en">
+    <body>
+      <trans-unit id="tl_metamodel_rendersettings.insertTag.0">
+        <source>Insert Tag</source>
+        <target>Insert Tag</target>
+      </trans-unit>
+      <trans-unit id="tl_metamodel_rendersettings.insertTag.1">
+        <source>Insert Tag (Tobedone)</source>
+        <target>Insert Tag (Tobedone)</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
